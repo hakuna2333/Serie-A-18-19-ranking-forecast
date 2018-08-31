@@ -1,0 +1,327 @@
+Notes for Football Data
+
+All data is in csv format, ready for use within standard spreadsheet applications. Please note that some abbreviations are no longer in use (in particular odds from specific bookmakers no longer used) and refer to data collected in earlier seasons. For a current list of what bookmakers are included in the dataset please visit http://www.football-data.co.uk/matches.php
+
+Key to results data:
+
+Div = League Division
+Date = Match Date (dd/mm/yy)
+HomeTeam = Home Team
+AwayTeam = Away Team
+FTHG and HG = Full Time Home Team Goals
+FTAG and AG = Full Time Away Team Goals
+FTR and Res = Full Time Result (H=Home Win, D=Draw, A=Away Win)
+HTHG = Half Time Home Team Goals
+HTAG = Half Time Away Team Goals
+HTR = Half Time Result (H=Home Win, D=Draw, A=Away Win)
+
+Match Statistics (where available)
+Attendance = Crowd Attendance
+Referee = Match Referee
+HS = Home Team Shots
+AS = Away Team Shots
+HST = Home Team Shots on Target
+AST = Away Team Shots on Target
+HHW = Home Team Hit Woodwork
+AHW = Away Team Hit Woodwork
+HC = Home Team Corners
+AC = Away Team Corners
+HF = Home Team Fouls Committed
+AF = Away Team Fouls Committed
+HFKC = Home Team Free Kicks Conceded
+AFKC = Away Team Free Kicks Conceded
+HO = Home Team Offsides
+AO = Away Team Offsides
+HY = Home Team Yellow Cards
+AY = Away Team Yellow Cards
+HR = Home Team Red Cards
+AR = Away Team Red Cards
+HBP = Home Team Bookings Points (10 = yellow, 25 = red)
+ABP = Away Team Bookings Points (10 = yellow, 25 = red)
+
+Note that Free Kicks Conceeded includes fouls, offsides and any other offense commmitted and will always be equal to or higher than the number of fouls. Fouls make up the vast majority of Free Kicks Conceded. Free Kicks Conceded are shown when specific data on Fouls are not available (France 2nd, Belgium 1st and Greece 1st divisions).
+
+Note also that English and Scottish yellow cards do not include the initial yellow card when a second is shown to a player converting it into a red, but this is included as a yellow (plus red) for European games.
+
+
+Key to 1X2 (match) betting odds data:
+
+B365H = Bet365 home win odds
+B365D = Bet365 draw odds
+B365A = Bet365 away win odds
+BSH = Blue Square home win odds
+BSD = Blue Square draw odds
+BSA = Blue Square away win odds
+BWH = Bet&Win home win odds
+BWD = Bet&Win draw odds
+BWA = Bet&Win away win odds
+GBH = Gamebookers home win odds
+GBD = Gamebookers draw odds
+GBA = Gamebookers away win odds
+IWH = Interwetten home win odds
+IWD = Interwetten draw odds
+IWA = Interwetten away win odds
+LBH = Ladbrokes home win odds
+LBD = Ladbrokes draw odds
+LBA = Ladbrokes away win odds
+PSH and PH = Pinnacle home win odds
+PSD and PD = Pinnacle draw odds
+PSA and PA = Pinnacle away win odds
+SOH = Sporting Odds home win odds
+SOD = Sporting Odds draw odds
+SOA = Sporting Odds away win odds
+SBH = Sportingbet home win odds
+SBD = Sportingbet draw odds
+SBA = Sportingbet away win odds
+SJH = Stan James home win odds
+SJD = Stan James draw odds
+SJA = Stan James away win odds
+SYH = Stanleybet home win odds
+SYD = Stanleybet draw odds
+SYA = Stanleybet away win odds
+VCH = VC Bet home win odds
+VCD = VC Bet draw odds
+VCA = VC Bet away win odds
+WHH = William Hill home win odds
+WHD = William Hill draw odds
+WHA = William Hill away win odds
+
+Bb1X2 = Number of BetBrain bookmakers used to calculate match odds averages and maximums
+BbMxH = Betbrain maximum home win odds
+BbAvH = Betbrain average home win odds
+BbMxD = Betbrain maximum draw odds
+BbAvD = Betbrain average draw win odds
+BbMxA = Betbrain maximum away win odds
+BbAvA = Betbrain average away win odds
+
+MaxH = Oddsportal maximum home win odds
+MaxD = Oddsportal maximum draw win odds
+MaxA = Oddsportal maximum away win odds
+AvgH = Oddsportal average home win odds
+AvgD = Oddsportal average draw win odds
+AvgA = Oddsportal average away win odds
+
+
+
+Key to total goals betting odds:
+
+BbOU = Number of BetBrain bookmakers used to calculate over/under 2.5 goals (total goals) averages and maximums
+BbMx>2.5 = Betbrain maximum over 2.5 goals
+BbAv>2.5 = Betbrain average over 2.5 goals
+BbMx<2.5 = Betbrain maximum under 2.5 goals
+BbAv<2.5 = Betbrain average under 2.5 goals
+
+GB>2.5 = Gamebookers over 2.5 goals
+GB<2.5 = Gamebookers under 2.5 goals
+B365>2.5 = Bet365 over 2.5 goals
+B365<2.5 = Bet365 under 2.5 goals
+
+
+Key to Asian handicap betting odds:
+
+BbAH = Number of BetBrain bookmakers used to Asian handicap averages and maximums
+BbAHh = Betbrain size of handicap (home team)
+BbMxAHH = Betbrain maximum Asian handicap home team odds
+BbAvAHH = Betbrain average Asian handicap home team odds
+BbMxAHA = Betbrain maximum Asian handicap away team odds
+BbAvAHA = Betbrain average Asian handicap away team odds
+
+GBAHH = Gamebookers Asian handicap home team odds
+GBAHA = Gamebookers Asian handicap away team odds
+GBAH = Gamebookers size of handicap (home team)
+LBAHH = Ladbrokes Asian handicap home team odds
+LBAHA = Ladbrokes Asian handicap away team odds
+LBAH = Ladbrokes size of handicap (home team)
+B365AHH = Bet365 Asian handicap home team odds
+B365AHA = Bet365 Asian handicap away team odds
+B365AH = Bet365 size of handicap (home team)
+
+
+Closing odds (last odds before match starts)
+
+PSCH = Pinnacle closing home win odds
+PSCD = Pinnacle closing draw odds
+PSCA = Pinnacle closing away win odds
+
+Football-Data would like to acknowledge the following sources which have been utilised in the compilation of Football-Data's results and odds files.
+
+
+Current results (full time, half time)
+Xcores - http://www.xcores .com
+
+Match statistics
+Sportinglife, ESPN Soccer, Bundesliga.de, Gazzetta.it and Football.fr
+
+Bookmakers betting odds
+Betbrain - http://www.betbrain.com
+Oddsportal - http://www.oddsportal.com
+Individual bookmakers
+
+Betting odds for weekend games are collected Friday afternoons, and on Tuesday afternoons for midweek games.
+
+Additional match statistics (corners, shots, bookings, referee etc.) for the 2000/01 and 2001/02 seasons for the English, Scottish and German leagues were provided by Sports.com (now under new ownership and no longer available).
+
+
+
+足球数据注释
+
+所有数据均采用csv格式，可在标准电子表格应用程序中使用。请注意，某些缩写不再使用（特别是不再使用特定博彩公司的赔率），并参考早期季节收集的数据。有关数据集中包含哪些博彩公司的最新列表，请访问http://www.football-data.co.uk/matches.php 
+
+结果数据的关键：
+
+Div =联盟分区
+日期=比赛日期（年/月/日） ）
+HomeTeam =主队
+AwayTeam =客场球队
+FTHG和HG =全职主场球队目标
+FTAG和AG =全时客场球队目标
+FTR和Res =全职结果（H =主场胜利，D =平局，A =客场胜利）
+HTHG =半场主队进球
+HTAG =半场客场球队目标
+HTR =半场结果（H =主场胜利，D =平局，A =客场胜利）
+
+比赛统计数据（如果可用）
+出勤率=人群出席
+裁判员=比赛裁判员
+HS =主场球队射门
+AS =客场球队射门
+HST =主队射门目标
+AST =客队射门目标
+HHW =主队击中木工
+AHW =客队击中木工
+HC =主队角落
+AC =客场球队角落
+HF =主队Fouls承诺
+AF =客队Fouls承诺
+HFKC =主场球队任意球
+AFKC =客场球队任意球队球队失误球队主场球队H = 
+主场球队越位球队
+AO =客场球队越位球队
+HY =主队黄牌
+AY =客场球队黄牌
+HR =主队红牌
+AR =客队红牌
+HBP =主队预定点数（10 =黄牌，25 =红牌）
+ABP =客队预定点数（10 =黄牌，25 =红色）
+
+注意自由踢被禁赛包括犯规，越位和任何其他犯规，并且总是等于或高于犯规次数。Fouls构成了绝对多数的Free Kicks Conceded。当有关Fouls的特定数据不可用时（法国第2，比利时第1和希腊第1分区），将显示免费踢球。
+
+另请注意，英语和苏格兰黄牌不包括初始黄牌，当第二张牌显示给玩家将其转换为红色时，但这包含为欧洲游戏的黄色（加红色）。
+
+
+关键1X2（匹配）赔率数据：
+
+B365H = bet365的主场获胜赔率
+B365D = bet365的平局赔率
+B365A = bet365的客场取胜赔率
+BSH =蓝方主场胜赔率
+BSD =蓝方平局赔率
+BSA =蓝广场客场取胜赔率
+BWH =赌注和胜利主场胜利赔率
+BWD =投注和赢取赔率
+BWA =投注和赢取赔率赔率
+GBH = Gamebookers主场赔率赔率
+GBD = Gamebookers平局赔率
+GBA = Gamebookers客场胜率赔率
+IWH = Interwetten主场胜算赔率
+IWD = Interwetten平局赔率
+IWA = Interwetten客场赔率赔率
+LBH = Ladbrokes主场获胜赔率
+LBD = Ladbrokes平局赔率
+LBA = Ladbrokes客场胜率赔率
+PSH和PH = Pinnacle主场赔率赔率
+PSD和PD = Pinnacle抽签赔率
+PSA和PA = Pinnacle客场胜率赔率
+SOH =体育赔率主场胜率赔率
+SOD =体育赔率抽奖赔率
+SOA =体育赔率客场胜率赔率
+SBH = Sportingbet主场胜利赔率
+SBD = Sportingbet平局赔率
+SBA = Sportingbet客场赢得赔率
+SJH =斯坦詹姆斯主场获胜赔率
+SJD =斯坦詹姆斯抽签赔率
+SJA =斯坦詹姆斯客场胜率赔率
+SYH =斯坦利贝特主场胜率赔率
+SYD =斯坦利贝特赔率赔率
+SYA =斯坦利贝特客场胜率赔率
+VCH = VC投注主场赔率赔率
+VCD = VC投注平局赔率
+VCA = VC投注客场赔率
+WHH = William Hill主场赔率
+WHD = William Hill平局赔率
+WHA = William Hill客场胜利赔率
+
+Bb1X2 =用于计算比赛赔率平均值和最大值的BetBrain博彩公司数量
+BbMxH = Betbrain最高回家赔率
+BbAvH = Betbrain平均主场胜算赔率
+BbMxD = Betbrain最高赔率
+BbAvD = Betbrain平均抽奖赔率
+BbMxA = Betbrain最大客场胜利赔率
+BbAvA = Betbrain平均客场胜率赔率
+
+MaxH = Oddsportal最高主场胜算赔率
+MaxD = Oddsportal最高抽奖赔率
+MaxA = Oddsportal最大客场胜率赔率
+AvgH = Oddsportal平均主场胜算赔率
+AvgD = Oddsportal平均抽奖赔率
+AvgA = Oddsportal平均客场胜率赔率
+
+
+
+总得分赔率的关键：
+
+BbOU =用于计算超过/低于2.5个目标（总目标）平均值和最大值的BetBrain博彩公司数量
+BbMx> 2.5 = Betbrain最大超过2.5个目标
+BbAv> 2.5 = Betbrain平均超过2.5个目标
+BbMx <2.5 = Betbrain最大值低于2.5个目标
+BbAv < 2.5 = Betbrain平均值低于2.5个目标
+
+GB> 2.5 = Gamebookers超过2.5个目标
+GB <2.5 = Gamebookers低于2.5个目标
+B365> 2.5 = Bet365超过2.5个目标
+B365 <2.5 = Bet365低于2.5个目标
+
+
+关键亚洲差点赔率赔率：
+
+BbAH = Number of BetBrain博彩公司习惯于亚洲差点平均值和最大值
+BbAHh = Betbrain差点大小（主队）
+BbMxAHH = Betbrain最大亚洲差点主场赔率
+BbAvAHH = Betbrain平均亚洲差点主队赔率
+BbMxAHA = Betbrain最大亚洲差点客场球队赔率
+BbAvAHA = Betbrain平均亚洲差点客场球队赔率GBAHH = Gamebookers亚洲差点主队赔率GBAHA = Gamebookers亚洲差点客场球队赔率
+
+GBAH = 
+Gamebookers障碍球员
+大小（主场球队）
+LBAHH = Ladbrokes亚洲差点主队赔率
+LBAHA = Ladbrokes亚洲差点球队赔率
+LBAH = Ladbrokes差点（主队）
+B365AHH = Bet365亚洲差点主队赔率
+B365AHA = Bet365亚洲差点球队赔率
+B365AH = Bet365大小障碍（主队）
+
+
+结束赔率（比赛开始前的最后赔率）
+
+PSCH = Pinnacle关闭主场胜利赔率
+PSCD = Pinnacle结束抽签赔率
+PSCA = Pinnacle结束胜利赔率
+
+Football-Data想要承认以下来源，这些来源已用于编制Football-Data的结果和赔率文件。
+
+
+目前的成绩（全职，半场时间）
+Xcores  -  http://www.xcores .com 
+
+比赛统计数据
+Sportinglife，ESPN Soccer，Bundesliga.de，Gazzetta.it和Football.fr 
+
+博彩公司投注赔率
+Betbrain  -  http：//www.betbrain .com 
+Oddsportal  -  http://www.oddsportal.com 
+个人博彩公司
+
+周五下午收集周末比赛的赔率，并在周二下午收集周中比赛。
+
+Sports.com提供了2000/01和2001/02赛季英格兰，苏格兰和德国联赛的额外比赛统计数据（角球，投篮，预定，裁判等）（现已获得新的所有权，不再提供）。
